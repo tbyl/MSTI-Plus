@@ -1,13 +1,9 @@
 # MSTI-Plus: A Comprehensive Multimodal Sarcasm Target Identification Benchmark
 
 
-MSTI-Plus introduces a novel and comprehensive benchmark for **Multimodal Sarcasm Target Identification**, featuring fine-grained annotations on both sarcasm targets and normal non-sarcasm aspects. It is designed to help deep models better perceive the semantic differences between these elements and enhance interpretability in sarcasm detection systems.
+## Dataset Download
 
-## Dataset Overview
+You can download the dataset and related files through the following Baidu Netdisk link:
 
-The MSTI-Plus dataset includes:
-- **Multimodal Samples**: Pairs of images and text, each annotated with sarcasm-related labels.
-- **Annotations**:
-  - Sarcasm targets (textual and visual)
-  - Non-sarcasm aspects
-- **Visual Sarcasm Targets**: Labeled for interpretability rather than high-precision bounding boxes.
+- **Baidu Netdisk Link**: [Click here to download](https://pan.baidu.com/s/1dIKKmWsrZOxjEjEAqML6kQ)  
+- **Access Code**: `nkw5`  
