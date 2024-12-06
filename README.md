@@ -1,4 +1,4 @@
-# MSTI-Plus: A Comprehensive Multimodal Sarcasm Target Identification Benchmark
+# MSTI-Plus: Introducing Non-Sarcasm Reference Materials to Enhance Multimodal Sarcasm Target Identification
 
 
 ## Dataset Download
